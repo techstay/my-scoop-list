@@ -1,0 +1,19 @@
+{
+    "version": "2.11.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ginuerzh/gost/releases/download/v2.11.0/gost-windows-amd64-2.11.0.zip",
+            "hash": "FAB6245393DE83443AE134E689B14548E6CE9C6F7688B8250D9C19AD6D78F478"
+        },
+        "32bit": {
+            "url": "https://github.com/ginuerzh/gost/releases/download/v2.11.0/gost-windows-386-2.11.0.zip",
+            "hash": "2EA47564BC04C9D54FA2524AF7501BD9916855523232AD340BF3EC76854637E1"
+        }
+    },
+    "license": {
+        "identifier": "MIT",
+        "url": "https://github.com/ginuerzh/gost/blob/master/LICENSE"
+    },
+    "homepage": "https://github.com/ginuerzh/gost",
+    "bin": "gost-windows-amd64.exe"
+}

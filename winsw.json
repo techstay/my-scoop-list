@@ -1,0 +1,11 @@
+{
+    "version": "2.10.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/winsw/winsw/releases/download/v2.10.3/WinSW.NETCore31.zip",
+            "hash": "07a8ba7d10e04c1d7b8567b2af40bd7850b2be5e4884d8def7ef3569f33a0b1f"
+        }
+    },
+    "homepage": "",
+    "bin": "winSW.exe"
+}
